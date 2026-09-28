@@ -1,2 +1,2 @@
 # Java-Script
-exercicios realizado em 
+exercicios realizado na UC-9 no senac
